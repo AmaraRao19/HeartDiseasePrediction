@@ -10,7 +10,7 @@ Predict whether a patient is at risk of heart failure using Machine Learning.
 - Total records: 299 patients
 
 ## Model Applied
-- Logistic Regression
+- Clasification (Logistic Regression)
 
 ## Key Results & Findings
 - Accuracy: 85%
